@@ -1,5 +1,8 @@
 .DS_Store
 /node_modules
+/dev
+/build
+/src/node_modules
 /test/**/node_modules
 __sapper__
 dist

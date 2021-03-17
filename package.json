@@ -1,9 +1,9 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "sapper-basics",
+  "description": "Sapper-Basics",
   "version": "0.0.1",
   "scripts": {
-    "dev": "sapper dev",
+    "dev": "sapper dev --build-dir dev --port 8080",
     "build": "sapper build --legacy",
     "export": "sapper export --legacy",
     "start": "node __sapper__/build",
